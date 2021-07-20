@@ -1,5 +1,8 @@
 ### ExtendingFab
+#### 1. Expanded state
+<img src="images/expanded.png" title="Expanded"/>
 
-<img src="images/expanded.png" />
+#### 2. Shrinked state
+<img src="images/shrinked.png" title="Shrinked"/>
 
-<img src="images/shrinked.png" />
+The states switch when an up/down scroll is detected, just like in the Gmail App 😎.
